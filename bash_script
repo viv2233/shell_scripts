@@ -1,3 +1,24 @@
+📋 Questions Covered:
+
+🔹 Question 1: I want to automate the deployment of an application to multiple servers. How would you achieve this using a shell script?
+🔹 Question 2: Create a script to monitor disk usage and send an alert if usage exceeds 80%.
+🔹 Question 3: Write a script to check if a service is running, and start it if it’s not.
+🔹 Question 4: Write a script to backup logs older than 7 days and delete the original files.
+🔹 Question 5: Create a script to automate database backup.
+🔹 Question 6: Write a script to rotate logs on a weekly basis.
+🔹 Question 7: Write a script to check the status of multiple services and restart any that are not running.
+🔹 Question 8: Create a script to update a web application by pulling the latest code from a Git repository.
+🔹 Question 9: Write a script to compress and archive old log files.
+🔹 Question 10: Write a script automate the cleanup of temporary files older than 10 days.
+🔹 Question 11: Write a script to monitor CPU usage and alert if it exceeds a certain threshold.
+🔹 Question 12: Write a script to install a list of packages.
+🔹 Question 13: Write a script to sync a local directory with a remote directory using rsync.
+🔹 Question 14: Write a script to check the health of a web application by sending an HTTP request and checking the response.
+🔹 Question 15: Write a script to automate the configuration of a new server with necessary packages and settings.
+
+
+
+
 ################## Question 1 ################## 
 
 ################################################
